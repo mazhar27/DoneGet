@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1034035446293-bdjcutms55f4asd9sofg81ecrls4cfkv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1034035446293-bdjcutms55f4asd9sofg81ecrls4cfkv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRo9L8KphCgWLGI4xlZqxI_NQKo7-9iKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1034035446293</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Do-ne.Done</string>
+	<key>PROJECT_ID</key>
+	<string>done-3d3fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>done-3d3fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1034035446293:ios:637cb8a8564eb325</string>
+	<key>DATABASE_URL</key>
+	<string>https://done-3d3fc.firebaseio.com</string>
+</dict>
+</plist>

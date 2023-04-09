@@ -1,0 +1,204 @@
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "1Ii-BS-hk9"; */
+"1Ii-BS-hk9.text" = "الاسم الكامل";
+
+/* Class = "UILabel"; text = "Dont have an account?"; ObjectID = "2Cl-Bq-Va4"; */
+"2Cl-Bq-Va4.text" = "Dont have an account?";
+
+/* Class = "UITextField"; placeholder = "e.g John Doe"; ObjectID = "3io-fz-6uF"; */
+"3io-fz-6uF.placeholder" = "e.g John Doe";
+
+/* Class = "UILabel"; text = "A four digit code has been sent to your entered mobile number for verification process"; ObjectID = "4aw-fF-P3g"; */
+"4aw-fF-P3g.text" = "تم إرسال رمز مكون من أربعة أرقام إلى ملف أدخل رقم الهاتف المحمول لعملية التحقق";
+
+/* Class = "UILabel"; text = "Enter 4 digit pin"; ObjectID = "4ji-9s-fEF"; */
+"4ji-9s-fEF.text" = "Enter 4 digit pin";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "4uB-uF-D0Q"; */
+"4uB-uF-D0Q.normalTitle" = "سياسة الخصوصية";
+
+/* Class = "UIButton"; configuration.title = "Arabic"; ObjectID = "533-A6-kSE"; */
+"533-A6-kSE.configuration.title" = "Arabic";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "533-A6-kSE"; */
+"533-A6-kSE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Dont have an account?"; ObjectID = "69Y-JD-kFR"; */
+"69Y-JD-kFR.text" = "Dont have an account?";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "6yP-ft-nrp"; */
+"6yP-ft-nrp.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6yP-ft-nrp"; */
+"6yP-ft-nrp.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Create Account"; ObjectID = "7TM-Qu-ALC"; */
+"7TM-Qu-ALC.configuration.title" = "إصنع حساب";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7TM-Qu-ALC"; */
+"7TM-Qu-ALC.normalTitle" = "إصنع حساب";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "7Ue-Ph-udI"; */
+"7Ue-Ph-udI.placeholder" = "0";
+
+/* Class = "UIButton"; configuration.title = "Get Started"; ObjectID = "BPW-ZX-xpZ"; */
+"BPW-ZX-xpZ.configuration.title" = "البدء";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BPW-ZX-xpZ"; */
+"BPW-ZX-xpZ.normalTitle" = "البدء";
+
+/* Class = "UILabel"; text = "Create 4 digit pin"; ObjectID = "CgR-u8-pjY"; */
+"CgR-u8-pjY.text" = "قم بإنشاء دبوس مكون من 4 أرقام";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "DSD-n4-Een"; */
+"DSD-n4-Een.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DSD-n4-Een"; */
+"DSD-n4-Een.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Proceed"; ObjectID = "DYq-lP-hXG"; */
+"DYq-lP-hXG.configuration.title" = "Proceed";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DYq-lP-hXG"; */
+"DYq-lP-hXG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Confirm New Pin"; ObjectID = "ERM-Vf-Cc1"; */
+"ERM-Vf-Cc1.text" = "Confirm New Pin";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "GzV-fW-HI5"; */
+"GzV-fW-HI5.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "HTn-UU-biD"; */
+"HTn-UU-biD.text" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HUC-mB-o06"; */
+"HUC-mB-o06.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Customer"; ObjectID = "IDG-vp-mwK"; */
+"IDG-vp-mwK.text" = "Customer";
+
+/* Class = "UITextField"; placeholder = "(+966)-999-999-999"; ObjectID = "JMA-mo-AfM"; */
+"JMA-mo-AfM.placeholder" = "(+966)-999-999-999";
+
+/* Class = "UIButton"; configuration.title = "Continue as Guest"; ObjectID = "KDy-Qp-p38"; */
+"KDy-Qp-p38.configuration.title" = "Continue as Guest";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KDy-Qp-p38"; */
+"KDy-Qp-p38.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Logging in with different account?"; ObjectID = "MKw-Wg-9HH"; */
+"MKw-Wg-9HH.text" = "Logging in with different account?";
+
+/* Class = "UILabel"; text = "Forgot Your Pin?"; ObjectID = "Nhf-Hf-M2J"; */
+"Nhf-Hf-M2J.text" = "Forgot Your Pin?";
+
+/* Class = "UILabel"; text = "Create an Account"; ObjectID = "O7p-bn-43v"; */
+"O7p-bn-43v.text" = "انشئ حساب";
+
+/* Class = "UILabel"; text = "Service Provider"; ObjectID = "Pm6-oT-kg7"; */
+"Pm6-oT-kg7.text" = "Service Provider";
+
+/* Class = "UILabel"; text = "00:59"; ObjectID = "QXd-xP-hmN"; */
+"QXd-xP-hmN.text" = "00:59";
+
+/* Class = "UILabel"; text = "I agree to"; ObjectID = "RR6-qz-aKb"; */
+"RR6-qz-aKb.text" = "أوافق على";
+
+/* Class = "UIButton"; configuration.title = "Rsend Code"; ObjectID = "RVT-40-bpI"; */
+"RVT-40-bpI.configuration.title" = "Rsend Code";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RVT-40-bpI"; */
+"RVT-40-bpI.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "SwT-aG-6nQ"; */
+"SwT-aG-6nQ.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "& Terms and Conditions"; ObjectID = "T9c-Zj-MM9"; */
+"T9c-Zj-MM9.normalTitle" = "& الأحكام والشروط";
+
+/* Class = "UIButton"; configuration.title = "Forgot your pin?"; ObjectID = "Ufb-zq-hFe"; */
+"Ufb-zq-hFe.configuration.title" = "Forgot your pin?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ufb-zq-hFe"; */
+"Ufb-zq-hFe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Create New Pin"; ObjectID = "VWP-CX-8d6"; */
+"VWP-CX-8d6.text" = "Create New Pin";
+
+/* Class = "UIButton"; configuration.title = "Update Pin"; ObjectID = "VXh-ag-yaA"; */
+"VXh-ag-yaA.configuration.title" = "Update Pin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VXh-ag-yaA"; */
+"VXh-ag-yaA.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "WLV-IL-e4k"; */
+"WLV-IL-e4k.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WLV-IL-e4k"; */
+"WLV-IL-e4k.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Proceed"; ObjectID = "WuS-7P-7Ld"; */
+"WuS-7P-7Ld.configuration.title" = "Proceed";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WuS-7P-7Ld"; */
+"WuS-7P-7Ld.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XAW-h8-xwe"; */
+"XAW-h8-xwe.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "XFF-zw-34d"; */
+"XFF-zw-34d.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Enter your 4 digit pin to proceed"; ObjectID = "XI4-xX-lA8"; */
+"XI4-xX-lA8.text" = "Enter your 4 digit pin to proceed";
+
+/* Class = "UILabel"; text = "Forgot Pin? No Worries"; ObjectID = "Xtm-Zy-hBB"; */
+"Xtm-Zy-hBB.text" = "Forgot Pin? No Worries";
+
+/* Class = "UITextField"; placeholder = "e.g. johndoe@gmail.com"; ObjectID = "afu-zx-Ogl"; */
+"afu-zx-Ogl.placeholder" = "e.g. johndoe@gmail.com";
+
+/* Class = "UIButton"; configuration.title = "English"; ObjectID = "cay-2V-wqP"; */
+"cay-2V-wqP.configuration.title" = "English";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cay-2V-wqP"; */
+"cay-2V-wqP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Login with different account instead"; ObjectID = "eEc-Ai-Z5p"; */
+"eEc-Ai-Z5p.text" = "Login with different account instead";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "f2f-jV-HVg"; */
+"f2f-jV-HVg.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "hdX-dr-OgD"; */
+"hdX-dr-OgD.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Login to your account"; ObjectID = "jUR-Qu-N7m"; */
+"jUR-Qu-N7m.text" = "Login to your account";
+
+/* Class = "UITextField"; placeholder = "999-999-999"; ObjectID = "kcZ-fJ-nr9"; */
+"kcZ-fJ-nr9.placeholder" = "999-999-999";
+
+/* Class = "UILabel"; text = "Verify OTP"; ObjectID = "kol-TP-Vfk"; */
+"kol-TP-Vfk.text" = "تحقق من OTP";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "kp8-DZ-L5q"; */
+"kp8-DZ-L5q.text" = "اختار اللغة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mKD-3u-iTH"; */
+"mKD-3u-iTH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Login / SignUp to your account"; ObjectID = "pMy-cK-t0c"; */
+"pMy-cK-t0c.text" = "Login / SignUp to your account";
+
+/* Class = "UIButton"; configuration.title = "Continue as Guest"; ObjectID = "xrd-gt-RMI"; */
+"xrd-gt-RMI.configuration.title" = "Continue as Guest";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xrd-gt-RMI"; */
+"xrd-gt-RMI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Continue as"; ObjectID = "yOo-ZB-ljw"; */
+"yOo-ZB-ljw.text" = "Continue as";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zi1-jH-eDa"; */
+"zi1-jH-eDa.normalTitle" = "Button";

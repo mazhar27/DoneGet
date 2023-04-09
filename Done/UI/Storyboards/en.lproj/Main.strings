@@ -1,0 +1,459 @@
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "022-Sh-xA0"; */
+"022-Sh-xA0.normalTitle" = "Privacy Policy";
+
+/* Class = "UIButton"; configuration.title = "Proceed"; ObjectID = "0wT-N7-cax"; */
+"0wT-N7-cax.configuration.title" = "Proceed";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0wT-N7-cax"; */
+"0wT-N7-cax.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "What are you looking for?"; ObjectID = "13H-Bh-UTS"; */
+"13H-Bh-UTS.text" = "What are you looking for?";
+
+/* Class = "UITextField"; placeholder = "e.g John Doe"; ObjectID = "1Ar-dN-UW7"; */
+"1Ar-dN-UW7.placeholder" = "e.g John Doe";
+
+/* Class = "UILabel"; text = "ORDER ID"; ObjectID = "1fo-P0-jG1"; */
+"1fo-P0-jG1.text" = "ORDER ID";
+
+/* Class = "UILabel"; text = "Transactions"; ObjectID = "25v-9P-bnH"; */
+"25v-9P-bnH.text" = "Transactions";
+
+/* Class = "UILabel"; text = "Additional Invoice"; ObjectID = "2iD-e8-Ap3"; */
+"2iD-e8-Ap3.text" = "Additional Invoice";
+
+/* Class = "UIButton"; normalTitle = "Add New Location"; ObjectID = "2mv-er-N91"; */
+"2mv-er-N91.normalTitle" = "Add New Location";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "3SR-6n-Gt9"; */
+"3SR-6n-Gt9.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "We're missing your street"; ObjectID = "3sL-wQ-l4g"; */
+"3sL-wQ-l4g.text" = "We're missing your street";
+
+/* Class = "UITextField"; placeholder = "e.g. johndoe@gmail.com"; ObjectID = "49o-67-SJk"; */
+"49o-67-SJk.placeholder" = "e.g. johndoe@gmail.com";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "4NK-dQ-QSb"; */
+"4NK-dQ-QSb.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Mon, May 26, 2022"; ObjectID = "4QS-aQ-6T0"; */
+"4QS-aQ-6T0.text" = "Mon, May 26, 2022";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5wL-uw-AdO"; */
+"5wL-uw-AdO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "6MC-9V-1Hv"; */
+"6MC-9V-1Hv.normalTitle" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "7MR-rT-5kj"; */
+"7MR-rT-5kj.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Add up-to maximum 5 addresses"; ObjectID = "7bF-9s-iL8"; */
+"7bF-9s-iL8.text" = "Add up-to maximum 5 addresses";
+
+/* Class = "UIButton"; normalTitle = "Save and Continue"; ObjectID = "9hp-pO-ZMX"; */
+"9hp-pO-ZMX.normalTitle" = "Save and Continue";
+
+/* Class = "UIButton"; configuration.title = "Confirm New Pin"; ObjectID = "BeQ-qb-dSa"; */
+"BeQ-qb-dSa.configuration.title" = "Confirm New Pin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BeQ-qb-dSa"; */
+"BeQ-qb-dSa.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add Funds to Wallet"; ObjectID = "CHl-Dz-8m4"; */
+"CHl-Dz-8m4.configuration.title" = "Add Funds to Wallet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CHl-Dz-8m4"; */
+"CHl-Dz-8m4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "CTN-6X-LYj"; */
+"CTN-6X-LYj.text" = "Payment Method";
+
+/* Class = "UIButton"; configuration.title = "Confirm Changes"; ObjectID = "D32-eN-A6t"; */
+"D32-eN-A6t.configuration.title" = "Confirm Changes";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D32-eN-A6t"; */
+"D32-eN-A6t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "Djo-le-TwE"; */
+"Djo-le-TwE.text" = "Payment Method";
+
+/* Class = "UIButton"; normalTitle = "View Invoice"; ObjectID = "DuB-Oq-pX0"; */
+"DuB-Oq-pX0.normalTitle" = "View Invoice";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E1a-Ae-4Sg"; */
+"E1a-Ae-4Sg.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "EFG-os-3fH"; */
+"EFG-os-3fH.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EFG-os-3fH"; */
+"EFG-os-3fH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Reserve Slot"; ObjectID = "EXX-fh-r7r"; */
+"EXX-fh-r7r.configuration.title" = "Reserve Slot";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EXX-fh-r7r"; */
+"EXX-fh-r7r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "Ewr-CE-Mnd"; */
+"Ewr-CE-Mnd.text" = "Other";
+
+/* Class = "UILabel"; text = "830.00 SAR"; ObjectID = "FcU-ow-Umt"; */
+"FcU-ow-Umt.text" = "830.00 SAR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fle-lk-TKD"; */
+"Fle-lk-TKD.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "H8d-Uo-mCZ"; */
+"H8d-Uo-mCZ.text" = "Total Amount";
+
+/* Class = "UIButton"; configuration.title = "Download Invoice"; ObjectID = "ID7-Rn-S80"; */
+"ID7-Rn-S80.configuration.title" = "Download Invoice";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ID7-Rn-S80"; */
+"ID7-Rn-S80.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Small Flat - 1 BD, living, Bathroom & Kitchen"; ObjectID = "IHC-Y8-9Im"; */
+"IHC-Y8-9Im.text" = "Small Flat - 1 BD, living, Bathroom & Kitchen";
+
+/* Class = "UIButton"; normalTitle = "AR"; ObjectID = "ISS-nf-fCI"; */
+"ISS-nf-fCI.normalTitle" = "AR";
+
+/* Class = "UILabel"; text = "Coupon Discount (10%)"; ObjectID = "IXR-cG-fw4"; */
+"IXR-cG-fw4.text" = "Coupon Discount (10%)";
+
+/* Class = "UILabel"; text = "A verification email has been sent to your email johndoe@gmail.com. Kindly check your inbox"; ObjectID = "JYL-7j-I8W"; */
+"JYL-7j-I8W.text" = "A verification email has been sent to your email johndoe@gmail.com. Kindly check your inbox";
+
+/* Class = "UILabel"; text = "Joe doe"; ObjectID = "K17-2V-LeZ"; */
+"K17-2V-LeZ.text" = "Joe doe";
+
+/* Class = "UILabel"; text = "Apply a Coupon"; ObjectID = "KHW-UV-DFh"; */
+"KHW-UV-DFh.text" = "Apply a Coupon";
+
+/* Class = "UIButton"; normalTitle = "View Profile"; ObjectID = "LA6-Up-JLs"; */
+"LA6-Up-JLs.normalTitle" = "View Profile";
+
+/* Class = "UILabel"; text = "Your Location"; ObjectID = "LgI-5A-621"; */
+"LgI-5A-621.text" = "Your Location";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "LnI-hv-kbT"; */
+"LnI-hv-kbT.text" = "20";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "MFb-M1-9A1"; */
+"MFb-M1-9A1.text" = "SAR 200";
+
+/* Class = "UILabel"; text = "167-H, King Abdul Aziz Road"; ObjectID = "Mg9-IT-GxZ"; */
+"Mg9-IT-GxZ.text" = "167-H, King Abdul Aziz Road";
+
+/* Class = "UITextField"; placeholder = "e.g. My Second Home"; ObjectID = "Mo4-EE-WsI"; */
+"Mo4-EE-WsI.placeholder" = "e.g. My Second Home";
+
+/* Class = "UIButton"; configuration.title = "Place Order"; ObjectID = "NCV-lQ-hqb"; */
+"NCV-lQ-hqb.configuration.title" = "Place Order";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NCV-lQ-hqb"; */
+"NCV-lQ-hqb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Add location"; ObjectID = "Nk6-so-EIc"; */
+"Nk6-so-EIc.text" = "Add location";
+
+/* Class = "UIButton"; normalTitle = "Additional Invoice"; ObjectID = "Oj8-7J-WXg"; */
+"Oj8-7J-WXg.normalTitle" = "Additional Invoice";
+
+/* Class = "UILabel"; text = "Select Time"; ObjectID = "PAb-KC-AZc"; */
+"PAb-KC-AZc.text" = "Select Time";
+
+/* Class = "UIButton"; configuration.title = "Proceed with Services"; ObjectID = "PM8-qZ-wxD"; */
+"PM8-qZ-wxD.configuration.title" = "Proceed with Services";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PM8-qZ-wxD"; */
+"PM8-qZ-wxD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Home Cleaning Services"; ObjectID = "PcS-bm-Qhr"; */
+"PcS-bm-Qhr.text" = "Home Cleaning Services";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "R58-6W-Npe"; */
+"R58-6W-Npe.text" = "SAR 200";
+
+/* Class = "UILabel"; text = "Credit/Debit Card"; ObjectID = "Rs7-DS-QGQ"; */
+"Rs7-DS-QGQ.text" = "Credit/Debit Card";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "Ru8-Jh-T67"; */
+"Ru8-Jh-T67.text" = "Full Name";
+
+/* Class = "UILabel"; text = "Top Up Amount"; ObjectID = "Rvm-Gg-q3c"; */
+"Rvm-Gg-q3c.text" = "Top Up Amount";
+
+/* Class = "UILabel"; text = "Order Summary"; ObjectID = "S2j-3V-MYy"; */
+"S2j-3V-MYy.text" = "Order Summary";
+
+/* Class = "UILabel"; text = "No Services Found"; ObjectID = "SSj-Kv-jTA"; */
+"SSj-Kv-jTA.text" = "No Services Found";
+
+/* Class = "UILabel"; text = "Email verification"; ObjectID = "SvD-Lf-lIV"; */
+"SvD-Lf-lIV.text" = "Email verification";
+
+/* Class = "UILabel"; text = "Wallet Balance"; ObjectID = "TwC-qA-cNt"; */
+"TwC-qA-cNt.text" = "Wallet Balance";
+
+/* Class = "UILabel"; text = "830.00 SAR"; ObjectID = "UgW-MM-Dy0"; */
+"UgW-MM-Dy0.text" = "830.00 SAR";
+
+/* Class = "UILabel"; text = "Top Up should be min SAR 200"; ObjectID = "UpH-bo-1QP"; */
+"UpH-bo-1QP.text" = "Top Up should be min SAR 200";
+
+/* Class = "UILabel"; text = "Congratulations ! Your provider has been booked. Kindly wait for Provider Acceptance"; ObjectID = "Us5-Vv-Uu3"; */
+"Us5-Vv-Uu3.text" = "Congratulations ! Your provider has been booked. Kindly wait for Provider Acceptance";
+
+/* Class = "UILabel"; text = "Note to provider"; ObjectID = "Utn-PE-LHC"; */
+"Utn-PE-LHC.text" = "Note to provider";
+
+/* Class = "UILabel"; text = "Add a new Address"; ObjectID = "VYO-OI-fwN"; */
+"VYO-OI-fwN.text" = "Add a new Address";
+
+/* Class = "UILabel"; text = "# DON123456789"; ObjectID = "Y8d-Cl-eDD"; */
+"Y8d-Cl-eDD.text" = "# DON123456789";
+
+/* Class = "UIButton"; normalTitle = "AR"; ObjectID = "YQE-qj-WGl"; */
+"YQE-qj-WGl.normalTitle" = "AR";
+
+/* Class = "UILabel"; text = "SPENT"; ObjectID = "Yq1-7P-wy9"; */
+"Yq1-7P-wy9.text" = "SPENT";
+
+/* Class = "UILabel"; text = "VAT"; ObjectID = "ZBR-U3-gNg"; */
+"ZBR-U3-gNg.text" = "VAT";
+
+/* Class = "UIButton"; configuration.title = "Add Location"; ObjectID = "ZQT-eo-TUh"; */
+"ZQT-eo-TUh.configuration.title" = "Add Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZQT-eo-TUh"; */
+"ZQT-eo-TUh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "SAR 1080.00"; ObjectID = "ZpQ-mr-aL1"; */
+"ZpQ-mr-aL1.text" = "SAR 1080.00";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "aOq-t2-Nhu"; */
+"aOq-t2-Nhu.text" = "SAR";
+
+/* Class = "UITextField"; placeholder = "Street"; ObjectID = "b83-tT-haK"; */
+"b83-tT-haK.placeholder" = "Street";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "bUM-WY-70M"; */
+"bUM-WY-70M.normalTitle" = "Apply";
+
+/* Class = "UIButton"; normalTitle = "Update picture"; ObjectID = "bh4-5I-YqM"; */
+"bh4-5I-YqM.normalTitle" = "Update picture";
+
+/* Class = "UIButton"; normalTitle = "View All Orders"; ObjectID = "c7c-dJ-ePp"; */
+"c7c-dJ-ePp.normalTitle" = "View All Orders";
+
+/* Class = "UILabel"; text = "Hello Guest"; ObjectID = "cLW-Y5-csb"; */
+"cLW-Y5-csb.text" = "Hello Guest";
+
+/* Class = "UILabel"; text = "Add a Label"; ObjectID = "cb4-ka-w7D"; */
+"cb4-ka-w7D.text" = "Add a Label";
+
+/* Class = "UILabel"; text = "DONE Copyrights Ltd. @ 2022"; ObjectID = "dDs-C4-jpA"; */
+"dDs-C4-jpA.text" = "DONE Copyrights Ltd. @ 2022";
+
+/* Class = "UILabel"; text = "Congratulations ! Your account has been topped up"; ObjectID = "dvI-Gu-fU5"; */
+"dvI-Gu-fU5.text" = "Congratulations ! Your account has been topped up";
+
+/* Class = "UILabel"; text = "Additional Amount"; ObjectID = "eSl-lV-DjE"; */
+"eSl-lV-DjE.text" = "Additional Amount";
+
+/* Class = "UILabel"; text = "Current Wallet Balance"; ObjectID = "exe-ih-Nyq"; */
+"exe-ih-Nyq.text" = "Current Wallet Balance";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "fYj-Ox-vEq"; */
+"fYj-Ox-vEq.normalTitle" = "View All";
+
+/* Class = "UIButton"; normalTitle = "View Map"; ObjectID = "gqO-kd-6fR"; */
+"gqO-kd-6fR.normalTitle" = "View Map";
+
+/* Class = "UILabel"; text = "By completing this order, I agree to Privacy Policy and Terms & Conditions"; ObjectID = "hDw-If-DQK"; */
+"hDw-If-DQK.text" = "By completing this order, I agree to Privacy Policy and Terms & Conditions";
+
+/* Class = "UILabel"; text = "Or Select an amount"; ObjectID = "hKV-Ar-pPh"; */
+"hKV-Ar-pPh.text" = "Or Select an amount";
+
+/* Class = "UILabel"; text = "Create New Pin"; ObjectID = "hma-F9-BFT"; */
+"hma-F9-BFT.text" = "Create New Pin";
+
+/* Class = "UIButton"; configuration.title = "Add Location"; ObjectID = "i8A-tP-0Zg"; */
+"i8A-tP-0Zg.configuration.title" = "Add Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "i8A-tP-0Zg"; */
+"i8A-tP-0Zg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "No Services Found"; ObjectID = "iNC-sK-MAM"; */
+"iNC-sK-MAM.text" = "No Services Found";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "jHu-Jf-IMk"; */
+"jHu-Jf-IMk.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "Top Up"; ObjectID = "jQd-UJ-rAj"; */
+"jQd-UJ-rAj.text" = "Top Up";
+
+/* Class = "UILabel"; text = "Select Date"; ObjectID = "jxt-Lr-5VY"; */
+"jxt-Lr-5VY.text" = "Select Date";
+
+/* Class = "UILabel"; text = "Confirm New Pin"; ObjectID = "k2O-LF-M1Y"; */
+"k2O-LF-M1Y.text" = "Confirm New Pin";
+
+/* Class = "UILabel"; text = "Login Pin"; ObjectID = "k4W-uK-FzO"; */
+"k4W-uK-FzO.text" = "Login Pin";
+
+/* Class = "UIButton"; normalTitle = "ENG"; ObjectID = "kHM-cj-6gj"; */
+"kHM-cj-6gj.normalTitle" = "ENG";
+
+/* Class = "UILabel"; text = "Add new service"; ObjectID = "kIZ-HQ-lET"; */
+"kIZ-HQ-lET.text" = "Add new service";
+
+/* Class = "UITextField"; placeholder = "Floor / Unit #"; ObjectID = "kmt-iA-Icl"; */
+"kmt-iA-Icl.placeholder" = "Floor / Unit #";
+
+/* Class = "UILabel"; text = "Enter Amount"; ObjectID = "l7l-k8-Zba"; */
+"l7l-k8-Zba.text" = "Enter Amount";
+
+/* Class = "UILabel"; text = "Service on Delivery"; ObjectID = "lli-x4-jF5"; */
+"lli-x4-jF5.text" = "Service on Delivery";
+
+/* Class = "UILabel"; text = "No Saved Locations"; ObjectID = "luW-i0-9bD"; */
+"luW-i0-9bD.text" = "No Saved Locations";
+
+/* Class = "UILabel"; text = "Selected Services"; ObjectID = "mNP-RV-NXN"; */
+"mNP-RV-NXN.text" = "Selected Services";
+
+/* Class = "UILabel"; text = "SAR 300"; ObjectID = "mZ4-05-n6A"; */
+"mZ4-05-n6A.text" = "SAR 300";
+
+/* Class = "UILabel"; text = "Credit/Debit Card"; ObjectID = "mwE-YC-Y7D"; */
+"mwE-YC-Y7D.text" = "Credit/Debit Card";
+
+/* Class = "UILabel"; text = "Credit/Debit Card"; ObjectID = "nLk-GK-cDE"; */
+"nLk-GK-cDE.text" = "Credit/Debit Card";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "nYB-Vj-ua8"; */
+"nYB-Vj-ua8.normalTitle" = "Terms & Conditions";
+
+/* Class = "UIButton"; configuration.title = "Pay Now"; ObjectID = "nsZ-dt-ouC"; */
+"nsZ-dt-ouC.configuration.title" = "Pay Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nsZ-dt-ouC"; */
+"nsZ-dt-ouC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Saved Locations"; ObjectID = "oAD-Mt-sXG"; */
+"oAD-Mt-sXG.text" = "Saved Locations";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "oPU-Ln-Agu"; */
+"oPU-Ln-Agu.text" = "Balance";
+
+/* Class = "UILabel"; text = "Service on Delivery"; ObjectID = "oUx-kG-3PY"; */
+"oUx-kG-3PY.text" = "Service on Delivery";
+
+/* Class = "UILabel"; text = "Kindly wait ! We’re searching the best Providers for you"; ObjectID = "pT3-Td-R7A"; */
+"pT3-Td-R7A.text" = "Kindly wait ! We’re searching the best Providers for you";
+
+/* Class = "UILabel"; text = "to prepare jobs"; ObjectID = "pVE-Zx-JPG"; */
+"pVE-Zx-JPG.text" = "to prepare jobs";
+
+/* Class = "UIButton"; normalTitle = "Login to your account"; ObjectID = "pdA-1T-Pjo"; */
+"pdA-1T-Pjo.normalTitle" = "Login to your account";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "pq8-sI-QGd"; */
+"pq8-sI-QGd.text" = "Payment Method";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "qIM-cI-uFy"; */
+"qIM-cI-uFy.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qIM-cI-uFy"; */
+"qIM-cI-uFy.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Search location"; ObjectID = "qO9-df-V4o"; */
+"qO9-df-V4o.placeholder" = "Search location";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "qZl-Fx-huT"; */
+"qZl-Fx-huT.text" = "Home";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qfG-Pm-shE"; */
+"qfG-Pm-shE.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "(+966)-999-999-999"; ObjectID = "rHf-p7-9cN"; */
+"rHf-p7-9cN.placeholder" = "(+966)-999-999-999";
+
+/* Class = "UILabel"; text = "TRANSACTIONS"; ObjectID = "s5A-3d-c8w"; */
+"s5A-3d-c8w.text" = "TRANSACTIONS";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "sBs-e9-bcZ"; */
+"sBs-e9-bcZ.text" = "SAR 200";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "sKi-jx-Dbl"; */
+"sKi-jx-Dbl.text" = "SAR 200";
+
+/* Class = "UILabel"; text = "Either a coupon is expired or doesnt exist"; ObjectID = "sXv-Uo-lGA"; */
+"sXv-Uo-lGA.text" = "Either a coupon is expired or doesnt exist";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "szF-yM-hHr"; */
+"szF-yM-hHr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t52-KC-lmr"; */
+"t52-KC-lmr.text" = "Label";
+
+/* Class = "UILabel"; text = "20th Sep 2022 10:30pm"; ObjectID = "t8c-o7-EX8"; */
+"t8c-o7-EX8.text" = "20th Sep 2022 10:30pm";
+
+/* Class = "UIButton"; configuration.title = "View Profile"; ObjectID = "tZB-Uw-Uui"; */
+"tZB-Uw-Uui.configuration.title" = "View Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tZB-Uw-Uui"; */
+"tZB-Uw-Uui.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "ENG"; ObjectID = "uAe-11-Ltw"; */
+"uAe-11-Ltw.normalTitle" = "ENG";
+
+/* Class = "UILabel"; text = "Select your Category"; ObjectID = "uB9-pD-f54"; */
+"uB9-pD-f54.text" = "Select your Category";
+
+/* Class = "UILabel"; text = "Confirm Payment Method"; ObjectID = "uDW-mf-aVW"; */
+"uDW-mf-aVW.text" = "Confirm Payment Method";
+
+/* Class = "UIButton"; normalTitle = "View Wallet"; ObjectID = "vVT-kZ-71N"; */
+"vVT-kZ-71N.normalTitle" = "View Wallet";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "vhV-vl-aEz"; */
+"vhV-vl-aEz.text" = "SAR 200";
+
+/* Class = "UIButton"; configuration.title = "Review Payment & Checkout"; ObjectID = "voq-PT-iHa"; */
+"voq-PT-iHa.configuration.title" = "Review Payment & Checkout";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "voq-PT-iHa"; */
+"voq-PT-iHa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Services Selected"; ObjectID = "wWt-i6-Qmg"; */
+"wWt-i6-Qmg.text" = "Services Selected";
+
+/* Class = "UILabel"; text = "Around You"; ObjectID = "weG-LV-uwE"; */
+"weG-LV-uwE.text" = "Around You";
+
+/* Class = "UILabel"; text = "SAR 850"; ObjectID = "wlN-eq-mlK"; */
+"wlN-eq-mlK.text" = "SAR 850";
+
+/* Class = "UILabel"; text = "6954 Quitzon Track, Riyadh, Saudi Arab"; ObjectID = "wqh-6t-7RD"; */
+"wqh-6t-7RD.text" = "6954 Quitzon Track, Riyadh, Saudi Arab";
+
+/* Class = "UITextField"; placeholder = "Note to Provider (Optional)"; ObjectID = "wvq-dw-1e8"; */
+"wvq-dw-1e8.placeholder" = "Note to Provider (Optional)";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "yAv-P4-F0v"; */
+"yAv-P4-F0v.text" = "Work";
+
+/* Class = "UILabel"; text = "SAR 200"; ObjectID = "zL8-Wl-fVW"; */
+"zL8-Wl-fVW.text" = "SAR 200";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zTA-sc-867"; */
+"zTA-sc-867.normalTitle" = "Add location";

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "inviceIcon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

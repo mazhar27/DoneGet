@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Bold.ttf">
+            <string>Poppins-Bold</string>
+        </array>
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProviderDashCVC" id="gTV-IL-0wX" customClass="ProviderDashCVC" customModule="Done" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="440" height="190"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="440" height="190"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MHS-v9-F8P">
+                        <rect key="frame" x="5" y="5" width="430" height="180"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="68" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0ww-G1-d1t">
+                                <rect key="frame" x="18" y="59" width="39" height="42"/>
+                                <fontDescription key="fontDescription" name="Poppins-Bold" family="Poppins" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Total Jobs" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xTa-Pg-XJX">
+                                <rect key="frame" x="18" y="105" width="73.5" height="20"/>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profileDashIcon" translatesAutoresizingMaskIntoConstraints="NO" id="Lqa-kT-MOE">
+                                <rect key="frame" x="372" y="60" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="b30-Z1-Hkc"/>
+                                    <constraint firstAttribute="height" constant="40" id="nFe-qE-mUW"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemTealColor"/>
+                        <constraints>
+                            <constraint firstItem="0ww-G1-d1t" firstAttribute="centerY" secondItem="MHS-v9-F8P" secondAttribute="centerY" constant="-10" id="4vN-y5-yLL"/>
+                            <constraint firstItem="0ww-G1-d1t" firstAttribute="leading" secondItem="MHS-v9-F8P" secondAttribute="leading" constant="18" id="FHf-qn-GJd"/>
+                            <constraint firstItem="Lqa-kT-MOE" firstAttribute="centerY" secondItem="0ww-G1-d1t" secondAttribute="centerY" id="GZM-0V-c0y"/>
+                            <constraint firstAttribute="trailing" secondItem="Lqa-kT-MOE" secondAttribute="trailing" constant="18" id="Igu-7w-BdZ"/>
+                            <constraint firstItem="xTa-Pg-XJX" firstAttribute="top" secondItem="0ww-G1-d1t" secondAttribute="bottom" constant="4" id="KhZ-cD-EFv"/>
+                            <constraint firstItem="xTa-Pg-XJX" firstAttribute="leading" secondItem="0ww-G1-d1t" secondAttribute="leading" id="oN4-Bf-Ooz"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="0.29999999999999999"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" systemColor="systemMintColor"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="MHS-v9-F8P" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="bVT-IV-fVF"/>
+                <constraint firstAttribute="trailing" secondItem="MHS-v9-F8P" secondAttribute="trailing" constant="5" id="fM4-dS-Kj1"/>
+                <constraint firstAttribute="bottom" secondItem="MHS-v9-F8P" secondAttribute="bottom" constant="5" id="lqY-db-Z9M"/>
+                <constraint firstItem="MHS-v9-F8P" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="5" id="rno-TB-j44"/>
+            </constraints>
+            <size key="customSize" width="440" height="190"/>
+            <connections>
+                <outlet property="imgVu" destination="Lqa-kT-MOE" id="NhM-af-19A"/>
+                <outlet property="jobsCountLbl" destination="0ww-G1-d1t" id="5uz-Xs-cvY"/>
+                <outlet property="jobsTitleLbl" destination="xTa-Pg-XJX" id="8ZT-gK-nuy"/>
+                <outlet property="outerVu" destination="MHS-v9-F8P" id="f3P-Uv-TzY"/>
+            </connections>
+            <point key="canvasLocation" x="282.60869565217394" y="120.53571428571428"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="profileDashIcon" width="24" height="24"/>
+        <systemColor name="systemMintColor">
+            <color red="0.0" green="0.7803921568627451" blue="0.74509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemTealColor">
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

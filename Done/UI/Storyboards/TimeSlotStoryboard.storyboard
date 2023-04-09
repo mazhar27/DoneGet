@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Dm8-0I-iSF">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Time SlotVC-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="TimeSlotVC" id="Y6W-OH-hqX" customClass="TimeSlotVC" customModule="Done" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GLV-uZ-uLA">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="120"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Manage Time Slots" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FcY-kD-8Ze">
+                                        <rect key="frame" x="20" y="77" width="374" height="23"/>
+                                        <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="16"/>
+                                        <color key="textColor" red="0.27843137254901962" green="0.27843137254901962" blue="0.27843137254901962" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.89019607840000003" green="0.96470588239999999" blue="0.97647058819999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="FcY-kD-8Ze" secondAttribute="trailing" constant="20" id="LIn-gB-dzG"/>
+                                    <constraint firstAttribute="bottom" secondItem="FcY-kD-8Ze" secondAttribute="bottom" constant="20" id="Mno-Fb-oZR"/>
+                                    <constraint firstAttribute="height" constant="120" id="UFV-gE-UbG"/>
+                                    <constraint firstItem="FcY-kD-8Ze" firstAttribute="leading" secondItem="GLV-uZ-uLA" secondAttribute="leading" constant="20" id="frv-Qy-91E"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select Date" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cle-HA-fRl">
+                                <rect key="frame" x="20" y="140" width="92" height="23"/>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="16"/>
+                                <color key="textColor" red="0.2784313725" green="0.2784313725" blue="0.2784313725" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="January 2022" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CDG-Jn-HDQ">
+                                <rect key="frame" x="20" y="173" width="108" height="23"/>
+                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="16"/>
+                                <color key="textColor" red="0.2784313725" green="0.2784313725" blue="0.2784313725" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="mtA-pe-Hc9">
+                                <rect key="frame" x="10" y="216" width="404" height="80"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="80" id="CqI-Vz-5T9"/>
+                                </constraints>
+                                <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="jWJ-YI-A4N">
+                                    <size key="itemSize" width="128" height="128"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                                <connections>
+                                    <outlet property="dataSource" destination="Y6W-OH-hqX" id="Mpv-qL-Sbo"/>
+                                    <outlet property="delegate" destination="Y6W-OH-hqX" id="5ak-fy-WKP"/>
+                                </connections>
+                            </collectionView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Manage Time Slot" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vme-sh-fJx">
+                                <rect key="frame" x="20" y="354.5" width="146" height="23"/>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="16"/>
+                                <color key="textColor" red="0.2784313725" green="0.2784313725" blue="0.2784313725" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="cTz-aW-x2C">
+                                <rect key="frame" x="0.0" y="397.5" width="414" height="464.5"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="Y6W-OH-hqX" id="gKo-Am-bwS"/>
+                                    <outlet property="delegate" destination="Y6W-OH-hqX" id="QXc-aQ-rdu"/>
+                                </connections>
+                            </tableView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JiE-nu-S4q">
+                                <rect key="frame" x="20" y="326" width="374" height="1"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="KCr-EB-v7u"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SWIPE" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fMg-78-apf">
+                                <rect key="frame" x="177" y="312" width="60" height="22.5"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="hS5-Rp-vsg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="16"/>
+                                <color key="textColor" red="0.2784313725" green="0.2784313725" blue="0.2784313725" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Image-1" translatesAutoresizingMaskIntoConstraints="NO" id="tob-0E-IcJ">
+                                <rect key="frame" x="238" y="312" width="30" height="25"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="Knb-XP-RtC"/>
+                                    <constraint firstAttribute="width" constant="30" id="bxF-bO-5pL"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="cTz-aW-x2C" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="0Ax-Q4-dqY"/>
+                            <constraint firstItem="mtA-pe-Hc9" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="10" id="2al-OI-tLw"/>
+                            <constraint firstItem="fMg-78-apf" firstAttribute="top" secondItem="mtA-pe-Hc9" secondAttribute="bottom" constant="16" id="3ma-P6-yJr"/>
+                            <constraint firstItem="Vme-sh-fJx" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="5VF-eB-yxp"/>
+                            <constraint firstItem="GLV-uZ-uLA" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="65Y-Rg-H8L"/>
+                            <constraint firstItem="tob-0E-IcJ" firstAttribute="top" secondItem="mtA-pe-Hc9" secondAttribute="bottom" constant="16" id="6Ig-g6-hpR"/>
+                            <constraint firstItem="GLV-uZ-uLA" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="6ua-Ck-dh0"/>
+                            <constraint firstItem="JiE-nu-S4q" firstAttribute="top" secondItem="mtA-pe-Hc9" secondAttribute="bottom" constant="30" id="7wU-7i-cEB"/>
+                            <constraint firstItem="cTz-aW-x2C" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="8IZ-gS-FqG"/>
+                            <constraint firstItem="cTz-aW-x2C" firstAttribute="top" secondItem="fMg-78-apf" secondAttribute="bottom" constant="63" id="8uW-pg-uim"/>
+                            <constraint firstItem="cTz-aW-x2C" firstAttribute="bottom" secondItem="vDu-zF-Fre" secondAttribute="bottom" id="CfK-Jm-XgI"/>
+                            <constraint firstItem="mtA-pe-Hc9" firstAttribute="top" secondItem="CDG-Jn-HDQ" secondAttribute="bottom" constant="20" id="L7P-NP-Eci"/>
+                            <constraint firstItem="tob-0E-IcJ" firstAttribute="leading" secondItem="fMg-78-apf" secondAttribute="trailing" id="NGn-Fg-81m"/>
+                            <constraint firstItem="CDG-Jn-HDQ" firstAttribute="top" secondItem="Cle-HA-fRl" secondAttribute="bottom" constant="10" id="NkC-fs-F9g"/>
+                            <constraint firstItem="Cle-HA-fRl" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="PPP-lW-nfQ"/>
+                            <constraint firstItem="JiE-nu-S4q" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="WMh-Ie-X0z"/>
+                            <constraint firstItem="GLV-uZ-uLA" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="Y5Z-Xm-Hbq"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="JiE-nu-S4q" secondAttribute="trailing" constant="20" id="YIR-zp-kZc"/>
+                            <constraint firstItem="fMg-78-apf" firstAttribute="centerX" secondItem="JiE-nu-S4q" secondAttribute="centerX" id="aUt-kc-SWM"/>
+                            <constraint firstItem="mtA-pe-Hc9" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="dxG-NE-3kn"/>
+                            <constraint firstItem="cTz-aW-x2C" firstAttribute="top" secondItem="Vme-sh-fJx" secondAttribute="bottom" constant="20" id="gXd-t3-ke5"/>
+                            <constraint firstItem="CDG-Jn-HDQ" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="jh2-cQ-dXG"/>
+                            <constraint firstItem="Cle-HA-fRl" firstAttribute="top" secondItem="GLV-uZ-uLA" secondAttribute="bottom" constant="20" id="u8M-8t-y0q"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="i58-oF-QFF"/>
+                    <connections>
+                        <outlet property="collectionV" destination="mtA-pe-Hc9" id="frQ-lP-KHy"/>
+                        <outlet property="tableView" destination="cTz-aW-x2C" id="Ptv-Ve-AjT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1889.8550724637682" y="64.955357142857139"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="RMK-Uf-yeC">
+            <objects>
+                <navigationController storyboardIdentifier="TimeSlotNavigation" automaticallyAdjustsScrollViewInsets="NO" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Dm8-0I-iSF" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="8oN-LW-nsC">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Y6W-OH-hqX" kind="relationship" relationship="rootViewController" id="DHr-77-pbi"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="X4p-gb-d3U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="979.71014492753636" y="64.955357142857139"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Image-1" width="16" height="16"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
